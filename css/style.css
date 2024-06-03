@@ -203,8 +203,9 @@ color: #fff !important;
 }
 
 .demo-1 .large-header {
-	/* background-image: url('../images/banner.jpg'); */
-	background-image: url('https://api.goodboyboy.top/bing/');
+	background-image: url('../images/banner.jpg');
+	/* 必应每日一图 */
+	/* background-image: url('https://api.goodboyboy.top/bing/'); */
 	background-position: center bottom;
 }
 .w3ls-main-title {
